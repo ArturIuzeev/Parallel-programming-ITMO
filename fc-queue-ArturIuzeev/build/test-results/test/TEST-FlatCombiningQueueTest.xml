@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FlatCombiningQueueTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-01-23T19:37:17" hostname="Arthurs-MBP.HomeLAN" time="56.7">
+  <properties/>
+  <testcase name="modelCheckingTest" classname="FlatCombiningQueueTest" time="41.098"/>
+  <testcase name="stressTest" classname="FlatCombiningQueueTest" time="15.602"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
